@@ -1,4 +1,3 @@
-Angular Sortable Table.
-
+# Angular Sortable Table.
 
 By Amos Asiamah.
